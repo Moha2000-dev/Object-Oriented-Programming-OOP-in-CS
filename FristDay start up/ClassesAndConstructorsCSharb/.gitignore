@@ -1,0 +1,20 @@
+
+# Build output
+bin/
+obj/
+
+# VS-related
+.vs/
+*.suo
+*.user
+*.db-shm
+*.db-wal
+
+# Rider
+.idea/
+
+# Other system files
+*.log
+*.tmp
+*.bak
+*.backup
