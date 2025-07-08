@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClassesAndConstructorsCSharb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7533881f013dd871f550d736865d786bc5c60f6f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ec6c2330e93590dc4b87a6ef204371fb090fff2")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClassesAndConstructorsCSharb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClassesAndConstructorsCSharb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
